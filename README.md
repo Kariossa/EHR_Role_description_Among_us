@@ -84,6 +84,96 @@ Description des rôles among us que l'on utilise lors de nos sessions
 
 ----------------------------------
 
+## **Modifier/Add-on**
+
+ (50% de chance de chaque modifier sauf indication contraire)
+
+### 1. Anti-TP (Modifier activé)
+
+**Description : Tu ne peut pas être téléporter dans la partie. Lors d'un meeting, tu reviendra a ta position initial avant celui-ci.**
+
+### 2. Diseased (Modifier activé)
+
+**Description : Lorsque tu meurt tu augmente le kill cooldown de l'imposteur jusqu'au prochain meeting.**
+
+### 3. Bait (Modifier activé avec 25% de chance)
+
+**Description :Lorsque quelqu'un te tue, il est obligé de report ton cadavre dans un délais entre 3 et 5 s.**
+
+### 3. Disco (Modifier activé avec 25% de chance)
+
+**Description : Ton skin change de couleur toute les 5s.**
+
+### 4. Lover (Modifier pas activé avec un nombre de joueur bas)
+
+**Description : Tu est en couple avec quelqu'un d'autre. Tu doit gagner avec cette personne peut importe si il est imposteur, neutral ou crewmate. Si l'un des lovers remplis une win condition, l'autre gagne également avec lui. Si jamais ton lover se fait tuer, tu mourras avec lui.**
+
+### 5. Lucky (Modifier activé avec 25% de chance)
+
+**Description : tu as 25% de chance de survivre a un kill.**
+
+### 6. Onbound (Modifier activé)
+
+**Description : Tu ne peut pas être tué lors d'un guess en meeting.**
+
+### 7. Tiebreaker (Modifier activé)
+
+**Description : Durant un meeting, si une égalité venait a apparaître, la personne que tu as voté sera éjecté.**
+
+-----------------------------------
+
+## Killing modifier
+
+### 8. Last impostor (Modifier activé)
+
+**Description : Ton kill cooldown est réduit de 25% lorsque tu est tout seul en imposteur.**
+
+-------------------------------------
+
+## Harmful modifier 
+
+### 9. Allergic (Modifier activé avec 25% de chance)
+
+**Description : Tu est allergic a un autre joueur ! Si tu reste trop proche de cette personne trop lomgtemps tu mourra !**
+
+### 10. Fool (Modifier activé avec 25% de chance)
+
+**Description : Tu ne peut pas reparer les coms et les lights.**
+
+### 11. Giant (Modifier activé avec 25% de chance)
+
+**Description : Tu est plus grand et lent pour cette game.**
+
+### 12. Sunglasses (Modifier activé avec 25% de chance)
+
+**Description : Tu as une vision réduite.**
+
+----------------------------------------
+
+## Helpful modifier 
+
+### 12. Energetic (Modifier activé avec 25% de chance)
+
+**Description : Tu as une réduction de cooldown de 25%.**
+
+### 13. Flash (Modifier activé avec 25% de chance)
+
+**Description : Tu te deplace un peu plus vite que la normal.**
+
+### 14. Sleuth (Modifier activé)
+
+**Description : Tu connais le rôle des personnes morte que tu report.**
+
+---------------------------------------
+
+## **Ghost roles**
+
+**None** (KarioNote : j'en voit aucun d'interessant perso)
+
+---------------------------------------
+
+
+
 ##  **Crewmate**
 
 - **Capacités :**
