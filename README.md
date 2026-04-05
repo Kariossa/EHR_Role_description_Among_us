@@ -1,6 +1,6 @@
 # **Liste des Rôles activé EHR**
 
-## **<span style="color:red">Imposteur**
+## **<p style="text-align:center;"><span style="color:red">Imposteur</p>** ![aie ca marche pas terrible](/assets/kariocut.png)
 
 ---------------------------
 
@@ -83,7 +83,7 @@
 
 ----------------------------------
 
-## **<span style="color:purple">Modifier/Add-on</span>**
+## **<p style="text-align:center;"><span style="color:purple">Modifier/Add-on</span></p>**
 
  (50% de chance de chaque modifier sauf indication contraire)
 
@@ -165,16 +165,15 @@
 
 ---------------------------------------
 
-## **Ghost roles**
+## <p style="text-align:center;">**Ghost roles**</p>
 
 **None** (KarioNote : j'en voit aucun d'interessant perso)
 
 ---------------------------------------
 
+**<p style="text-align:center;">en cours de rédaction</p>** 
 
-en cours de rédaction 
-
-[aie ca marche pas terrible](assets/karioEcris.png)
+![aie ca marche pas terrible](/assets/KarioEcris.png)
 
 ##  **Crewmate**
 
