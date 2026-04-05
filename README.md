@@ -171,18 +171,99 @@
 
 ---------------------------------------
 
+## **Neutral**
+
+### 1. <span style="color:grey">Arsonist</span> (Rôle activé)
+
+- **Objectif : Mettre de "l'essence sur toute les personnes vivantes du lobby pour ensuite aller vent et brûler toute le monde et gagner**
+
+- **Capacités : mettre de l'essence sur quelqu'un, il faut rester proche de la personne pendant 3s pour que ca le valide**
+
+### 2. <span style="color:grey">Doomsayer</span> (Rôle activé)
+
+- **Objectif : Trouvez le rôle de 3 personne dans le lobby puis les guess en meeting pour gagner**
+
+- **Capacités : Peut guess les rôles pendant les meeting. Une personne guess avec le bon rôle ne mourrera pas mais comptera pour la win condition. Ne peut guess qu'une personne par meeting. Le doomsayer ne meurt pas si il se trompe également.
+
+### 3. <span style="color:grey">Executioner</span> (Rôle activé)
+
+- **Objectif : Faire ejecter ca cible durant un metting pour gagner**
+
+- **Capacités : Tu as une cible désigner a ejecter au debut de la game. Tu doit la faire ejecter a tout prix durant les meetings. Si ta cible vient a mourir, ton role change et tu devient crewmate (sujet a changement)**
+
+### 4. <span style="color:grey">Innocent</span> (Rôle activé a tester) (KarioNote: pas convaincu mais on va voir )
+
+- **Objectif : Forcer quelqu'un a te tuer et le faire ejecter en meeting.**
+
+- **Capacités : Force quelqu'un a te tuer peut importe son röle, cette personne doit ensuite etre ejecté lors d'un meeting pour gagner**
+
+### 5. <span style="color:grey">Jester</span> (Rôle activé)
+
+- **Objectif : Se faire ejecter durant un meeting pour win**
+
+- **Capacités : Tu possède une vision imposteur et tu doit tout faire pour te faire ejecter durant un meeting**
+
+### 6. <span style="color:grey">Thief</span> (Rôle activé)
+
+- **Objectif : Vole le rôle d'un imposteur en le tuant et win avec leur win condition**
+
+- **Capacités : Tu possède un bouton kill te permettant de tuer uniquement les imposteur et prendre leur rôle. Tu ne peut pas tuer au tour 1. Si jamais la personne que tu essaye de tuer est un crewmate ou un neutral, c'est toi qui meurt a la place.**
+
+### 7. <span style="color:grey">Vulture</span> (Rôle activé)
+
+- **Objectif : Mange 3 corps durant la partie pour gagner"**
+
+- **Capacités : Tu peut manger les corps que tu croise avec ta capacité. Une flèche apparait lors d'un kill pour t'indiquer ou sont les corps. Tu a besoin de manger 3 cadavre pour win.**
+
+### 8. <span style="color:grey">Lawyer</span> (Rôle activé)
+
+- **Objectif : Empêche l'imposteur désigné de se faire ejecter a tout prix. Tu gagne avec les imposteurs**
+
+- **Capacités : L'imposteur n'est pas au courant de ton existence donc fait attention tu peut te faire tuer par celui-ci.**
+
+### 9. <span style="color:grey">Necro-guesser</span> (Rôle activé)
+
+- **Objectif : tu doit guess le rôle de 3 personne mortes pour gagner. Ta win ne met pas fin a la gane et tu gagne avec le camp vainqueur.**
+
+- **Capacités : Incomprehensible a tester**
+
+### 10. <span style="color:grey">Opportunist</span> (Rôle activé)
+
+- **Objectif : Survivre jusqu'a la fin**
+
+- **Capacités : aucune, tu le devient quand ta cible executioner meurt**
+
+##  **<span style="color:blue">Crewmate</span>**
+
+##  <span style="color:blue">Miscellaneous Roles</span>
+
+### 1. <span style="color:blue">Camera Man</span> (Rôle activé)
+
+- **Capacités : Tu peut te téléporter au niveau des cameras. Tu dispose d'une charge au début et tu en regagne en effectuant tes taches.**
+
+### 2. <span style="color:blue">Journalist</span> (Rôle activé)
+
+- **Capacités : Tu peut écrire des notes durant la game. Lorsque tu meurt tes notes sont révélé a tout le lobby.**
+
+### 3. <span style="color:blue">Portal Maker</span> (Rôle activé)
+
+- **Capacités : Tu peut placer deux portails durant la partie. Lorsque tu as placé les deux portails, si une personne passe vers un des portails, elle sera téléporté a l'autre. Temps de recharge de 5s par tp**
+
+### 4. <span style="color:blue">Tracefincer</span> (Rôle activé à tester)
+
+- **Capacités : tu dispose de vitals portatif que tu peut regarder 3s en utilisant ta capacité. Tu dispose également d'une flèche qui t'indique les corps si ils sont vieux d'au moins 20s.**
+
+##  <span style="color:blue">Investigate Roles</span>
+
+### 5. <span style="color:blue">Catcher</span> (Rôle activé)
+
+- **Capacités : Tu peut placer des traps au sol . Si des personnes passent dans ton traps, leur rôle te sera révélé durant le prochain meeting. Pour placer des traps, il faut utiliser le bouton pet (ou vent pour en placer sur une vent). Minimum 2 personne doivent etre passé dans le trap pour avoir les infos.**
+
+### 6. <span style="color:blue">Druid</span> (Rôle activé à tester)
+
+- **Capacités : Tu peut placer des traps au sol. si des personnes passent dans un de tes traps, tu sera alerté (a tester)**
+
 
 **<p style="text-align:center;">en cours de rédaction </p>**
 
 ![aie ca marche pas terrible](/assets/KarioEcris.png)
-
-##  **Crewmate**
-
-- **Capacités :**
-
-
-## **Neutral**
-
-- **Objectif :**
-- **Capacités :**
- 
