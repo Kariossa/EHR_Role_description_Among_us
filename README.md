@@ -293,6 +293,55 @@
 
 - **Capacités : Tu peut utiliser ta capacité sur des âme qui apparaisse a l'emplacement des cadavre lors du prochain round. Lorque tu le fait, des information sur le tueur seront affiché sous ton pseudo. Tu doit rester immobile un certain temps lors de l'utilisation de la capacité. Tu démarre avec une charge et tu en gagne plus en faisant des tasks.**
 
+##  <span style="color:blue">Support Roles</span>
+
+
+### 12. <span style="color:blue">Jailor</span> (Rôle activé à tester)
+
+- **Capacités : avec ta capacité, tu peut envoyer une personne en prison. durant le prochain meeting, la personne ne pourra communiquer uniquement toi sur une conversation privée (possibiitité de tuer a tester pas clair)**
+
+### 13. <span style="color:blue">Mechanic</span> (Rôle activé à tester) (ancien engineer)
+
+- **Capacités : tu peut reparer un sabotage instantanement durant la game avec ta capacité. Tu a également la capacité de vent. ( 10 s max dans une vent et 15s de recharge)
+
+### 14. <span style="color:blue">Medic</span> (Rôle activé)
+
+- **Capacités : tu peut donner un shield a une autre personne. Cette personne sera imunisé si quelqu'un essaye de la tuer. Tu ne peut placer un shield qu'une fois par game et il disparait quand tu meurt.**
+
+### 15. <span style="color:blue">Ventguard</span> (Rôle activé) (ancien Plumber)
+
+- **Capacités : tu peut bloquer des vents avec ta capacité. Tu ne peut bloquer que 2 vent par game.**
+
+##  <span style="color:blue">Killing Roles</span> (1 seul par game maximum)
+
+### 16. <span style="color:blue">Judge</span> (Rôle activé à tester) (Karionote: a voir peut etre un peu fort)
+
+- **Capacités : durant un meeting, tu peut choisir de juger une personne si elle est imposteur elle meurt sinon c'est le judge qui meurt.**
+
+### 17. <span style="color:blue">Nice Guesser</span> (Rôle activé)
+
+- **Capacités : tu peut guess le rôle des personnes dans un meeting. Si ton guess est bon la personne meurt sinon le guesser se suicide.**
+
+### 18. <span style="color:blue">Sheriff</span> (Rôle activé)
+
+- **Capacités : tu as un bouton kill qui te permet de tuer les imposteur et les neutrals. Si jamais tu utilise ta capacité sur un crewmate tu meurt.**
+
+##  <span style="color:blue">Power Roles</span>
+
+### 19. <span style="color:blue">Marshall</span> (Rôle activé)
+
+- **Capacités : Lorsque tu fini toute tes taches, ton rôle est révélé a tout le lobby. Tu ne peut plus etre guess apres avoir été révélé.**
+
+### 20. <span style="color:blue">Mayor</span> (Rôle activé)
+
+- **Capacités : Tu peut voter deux fois par round. Tu gagne un vote additionnel en faisant tes taches. (3 votes max)**
+
+### 21. <span style="color:blue">Swapper</span> (Rôle activé)
+
+- **Capacités : tu peut utiliser ta capacité en meeting pour echanger les votes de deux personnes. Pour utiliser ta capacité tu doit taper la commande: 
+/cmd sw ID ID 
+(tu peut voir les ID des joueur durant le meeting)**
+
 
 **<p style="text-align:center;">en cours de rédaction </p>**
 
