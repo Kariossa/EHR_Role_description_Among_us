@@ -243,7 +243,16 @@
 
 ### 2. <span style="color:blue">Journalist</span> (Rôle activé)
 
-- **Capacités : Tu peut écrire des notes durant la game. Lorsque tu meurt tes notes sont révélé a tout le lobby.**
+- **Capacités : Tu peut écrire des notes durant la game. Lorsque tu meurt tes notes sont révélé a tout le lobby.
+ Pour écrite dans les notes tu peut écrire ca pendant un meeting : 
+ /cmd note add kariossa est sus
+ Pour suprimmer une note : (a l'index spécifié)
+ /cmd note remove 1
+ Pour suprimmer toute tes notes : 
+ /cmd note clear
+ Pour voir tes notes et leur index : 
+ /cmd note view**
+
 
 ### 3. <span style="color:blue">Portal Maker</span> (Rôle activé)
 
@@ -262,6 +271,27 @@
 ### 6. <span style="color:blue">Druid</span> (Rôle activé à tester)
 
 - **Capacités : Tu peut placer des traps au sol. si des personnes passent dans un de tes traps, tu sera alerté (a tester)**
+
+### 7. <span style="color:blue">Hacker</span> (Rôle activé à tester)
+
+- **Capacités : Tu peut voir la table d'admin a distance pendant 5s. Tu dispose d'une charge au début et tu gagne plus de charge en effectuant des tasks.**
+
+### 8. <span style="color:blue">Insight</span> (Rôle activé à tester)
+
+
+- **Capacités : A chaque tache effectué, Un rôle aléatoire présent dans la partie te sera révélé.**
+
+### 9. <span style="color:blue">Lighter</span> (Rôle activé à tester)
+
+- **Capacités : Avec ta capacité, tu peut augmenter ta vision temporairement. La capacité fonctionne également durant le sabotage light**
+
+### 10. <span style="color:blue">Sentry</span> (Rôle activé à tester)
+
+- **Capacités : tu peut placer ta capacité dans une salle. Tu pourra savoir les joueurs dans la salle , les cadavres et si quelqu'un a vent recemment.*(KarioNote :  a tester completement c'est pas super bien expliqué)** 
+
+### 11. <span style="color:blue">Whisperer</span> (Rôle activé à tester) (ancien Medium)
+
+- **Capacités : Tu peut utiliser ta capacité sur des âme qui apparaisse a l'emplacement des cadavre lors du prochain round. Lorque tu le fait, des information sur le tueur seront affiché sous ton pseudo. Tu doit rester immobile un certain temps lors de l'utilisation de la capacité. Tu démarre avec une charge et tu en gagne plus en faisant des tasks.**
 
 
 **<p style="text-align:center;">en cours de rédaction </p>**
