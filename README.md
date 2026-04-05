@@ -174,7 +174,7 @@
 
 en cours de rédaction 
 
-[aie ca marche pas terrible](assets/karioecris.jpg)
+[aie ca marche pas terrible](assets/karioEcris.png)
 
 ##  **Crewmate**
 
